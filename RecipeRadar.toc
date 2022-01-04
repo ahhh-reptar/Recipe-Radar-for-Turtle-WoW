@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Version: 1.11
-## Title: Recipe Radar
-## Author: Jay Miller
+## Title: Recipe Radar for Turtle WoW
+## Author: Jay Miller - Updated by AHHH_REPTAR
 ## Notes: Locates vendors who sell recipes in the current region or by profession.
 ## Notes-deDE: Lokalisiert Händler, die Rezepte im Strombereich oder durch Beruf verkaufen.
 ## Notes-frFR: Localise les marchands qui vendent des recettes dans la région courante ou par profession.
